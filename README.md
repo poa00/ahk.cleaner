@@ -27,5 +27,4 @@ This is a free tool and support is not included and guaranteed. Nevertheless I w
 
 ### License ###
 
-AHKcleaner is licensed under the [**MIT License (Expat)**](ahkcleaner/license/license.html) which is published
-on the official site of [**Open Source Initiative**](http://opensource.org/licenses/MIT).
+AHKcleaner is licensed under the [**MIT License (Expat)**](https://bitbucket.org/Blackneron/ahkcleaner/license/license.html) which is published on the official site of [**Open Source Initiative**](http://opensource.org/licenses/MIT).
