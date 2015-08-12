@@ -24,3 +24,8 @@ The **AHKcleaner** removes comments, empty lines and unnecessary whitespaces fro
 ### Support ###
 
 This is a free tool and support is not included and guaranteed. Nevertheless I will try to answer all your questions if possible. So write to my email address **biegel[at]gmx.ch** if you have a question :-)
+
+### License ###
+
+AHKcleaner is licensed under the [**MIT License (Expat)**](ahkcleaner/license/license.html) which is published
+on the official site of [**Open Source Initiative**](http://opensource.org/licenses/MIT).
