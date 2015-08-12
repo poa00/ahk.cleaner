@@ -3,7 +3,7 @@
 
 ### Overview ###
 
-The **AHKcleaner** removes comments, empty lines and unnecessary whitespaces from AutoHotkey source files.
+The **AHKcleaner** tool removes comments, empty lines and unnecessary whitespaces from AutoHotkey source files.
 
 ### Screenshots ###
 
